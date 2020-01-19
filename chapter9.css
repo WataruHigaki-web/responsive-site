@@ -53,9 +53,9 @@ main {
 .title{
 	margin:15px 0 5px;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:768px) {
 	main{
-		width:300px;
+		width:420px;
 	}
 	.step-box{
 		width:90%;
